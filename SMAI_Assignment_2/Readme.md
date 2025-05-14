@@ -1,6 +1,6 @@
 # SMAI Assignment 2 - IIIT Hyderabad
 
-This repository contains the complete implementation of **Assignment 2** for the course *Statistical Methods in AI* (SMAI), offered at IIIT-Hyderabad, under the guidance of **Prof. Vineet Gandhi**.
+This repository contains the complete implementation of **Assignment 2** for the course *Statistical Methods in AI* (SMAI), offered at IIIT-Hyderabad.
 
 The assignment demonstrates a comprehensive understanding of core machine learning models including:
 - Multi-Layer Perceptron (MLP)

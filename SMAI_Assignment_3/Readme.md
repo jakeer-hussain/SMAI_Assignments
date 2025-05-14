@@ -1,6 +1,6 @@
 # SMAI Assignment 3 - IIIT Hyderabad
 
-This repository contains the complete implementation of Assignment 3 for the course **Statistical Methods in AI (SMAI)**, offered at **IIIT-Hyderabad**, under the guidance of **Prof. Vineet Gandhi**.
+This repository contains the complete implementation of Assignment 3 for the course **Statistical Methods in AI (SMAI)**, offered at **IIIT-Hyderabad**.
 
 This assignment focuses on **Age Prediction from Facial Images** using deep learning models. It involves training both a CNN from scratch and a fine-tuned ResNet-18 to perform regression on age labels extracted from face image filenames.
 

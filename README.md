@@ -1,6 +1,6 @@
 # Statistical Methods in AI – Spring 2025
 
-This repository contains the complete set of assignments submitted for the **Statistical Methods in AI (SMAI)** course during **Spring 2025** at IIIT Hyderabad, under the guidance of **Prof. Vineet Gandhi**. The assignments demonstrate implementation from scratch, use of deep learning frameworks, and in-depth analysis of models.
+This repository contains the complete set of assignments submitted for the **Statistical Methods in AI (SMAI)** course during **Spring 2025** at IIIT Hyderabad. The assignments demonstrate implementation from scratch, use of deep learning frameworks, and in-depth analysis of models.
 
 ---
 
