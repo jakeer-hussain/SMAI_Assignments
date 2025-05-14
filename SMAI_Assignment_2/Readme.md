@@ -87,13 +87,6 @@ Each section of the assignment is implemented in a dedicated Jupyter Notebook, w
 ---
 
 ## 🧠 Author
-- Dr. Sam (Roleplayed)
-- Implemented by: *[Your Name]* 
-- Institute: IIIT Hyderabad 
+- Implemented by: *P. Jakeer Hussain* 
+- Institute: IIIT Hyderabad
 - Course: Statistical Methods in AI (Spring 2025)
-
----
-
-## 📌 Note
-For educational use only. Do not reuse without proper citation.
-
